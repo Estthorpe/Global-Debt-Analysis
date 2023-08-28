@@ -12,10 +12,10 @@ Disclaimer should be in bold
  Debt Analysis
  - Total Amount of Debt by Country: Which countries have the highest total debt based on the available data, and how does this compare to their GDP?
  - Debt Categories: What are the primary reasons or categories for which countries owe the most debt (e.g., education, health, infrastructure)?
- - Debt Distribution by Indicator (Comparison of Debt Indicators): How do different indicators, such as education, health, and public administration, compare in terms of the total amount of debt? 
- - Show The Top 10 Debt Indicators
- - Number of Countries per Debt Indicator:
- - Average Debt per Country:
+ - Debt Distribution by Indicator (Comparison of Debt Indicators): How do different indicators, such as education, health, and public administration, compare in terms of the total amount of debt? -
+ -  Show The Top 10 Debt Indicators
+ -  Number of Countries per Debt Indicator
+ -  Average Debt per Country:
 
 ##skills/ concepts demonstrated  
 ###Power BI
