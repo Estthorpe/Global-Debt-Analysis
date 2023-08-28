@@ -17,27 +17,13 @@ Disclaimer should be in bold
  -  Number of Countries per Debt Indicator
  -  Average Debt per Country:
 
-##skills/ concepts demonstrated  
-###Power BI
--Data cleaning using Power Query
--Time Intelligence functions
--Dynamic and complex KPIs
--DAX Queries using different functions 
--Conditional Formatting
--QUICK Measures
--Modelling
--Filters
--generating insights from charts
-SQL Skills:
-Data Querying: Aggregation Functions, Window Functions, Join OperationsGrouping and Sorting,Data Filtering, Subqueries and Error Handling
-PowerBI Skills:
-Data Modeling, Visual Selection, Dashboard Design, Interactivity, Custom Measures-
-###SQL
- ##Data cleaning
- Common Table Enquiries (CTEs)
- List the steps done here and the different tables generated
- 
-#Modelling
+**Skills/ Concepts Demonstrated** 
+###Power BI 
+-Data cleaning using Power Query, Time Intelligence functions, Dynamic and complex KPIs, DAX Queries using different functions, Conditional Formatting, QUICK Measures, Modelling, Filters 
+ ###SQL Skills
+-Data Querying, Aggregation Functions, Window Functions, Join OperationsGrouping and Sorting,Data Filtering, Subqueries and Error Handling
+
+ **Modelling**
 
 Automatically derived relationships are adjusted to remove and replace unwanted relationships and the relationships between the tables are clearly mapped out.
 
