@@ -26,7 +26,7 @@ Automatically derived relationships are adjusted to remove and replace unwanted 
 
 Adjusted Model.   
 :---------------: 
-Adjusted Schema- Int'l Debt.png            
+[Adjusted Schema- Int'l Debt.png    ](https://github.com/Estthorpe/Global-Debt-Analysis/blob/main/Adjusted%20Schema-%20Int'l%20Debt.png)        
 
 The model is a star schema
 There are 5-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one to many relationship.
