@@ -24,5 +24,41 @@ Disclaimer should be in bold
  **Modelling**
 Automatically derived relationships are adjusted to remove and replace unwanted relationships and the relationships between the tables are clearly mapped out.
 
+Adjusted Model.   
+:---------------: 
+Adjusted Schema- Int'l Debt.png            
+
+The model is a star schema
+There are 5-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one to many relationship.
+
+## Visualization
+Include screenshot of the charts
+
+You can interact with the report [here] (link)
+Include the link for the Power BI report
+
+##Analysis
+Do in-depth analysis of each PowerBi Page
+
+Anal
+
+
+
+##Conclusion & Recommendations 
+
+Recommendations:
+Focus on High-Debt Countries: Countries such as those topping the list in terms of total debt should be the focus of international financial bodies for targeted debt management programs. Their specific needs and challenges should be identified, and customized strategies should be developed.
+Evaluate Underlying Causes: For countries with exceptionally high debts related to certain indicators, it's essential to dive deeper into the root causes. For example, if healthcare-related debts are predominant, it might indicate a struggling healthcare system that requires reform or international support.
+Collaborative Approaches: Countries with similar debt profiles (e.g., those with high debts in the same indicators) might benefit from collaborative strategies. Sharing best practices, policies, or even resources could be beneficial.
+Debt Education and Transparency: Countries, especially those with rapidly increasing debts, should focus on educating their policymakers about sustainable borrowing. There should also be transparency in how borrowed funds are allocated and spent.
+Engage in Preventive Measures: Before debts become unmanageable, countries approaching high debt-to-GDP ratios or those with rapidly increasing debts in specific indicators should be flagged for preventive measures.
+Conclusions:
+Diverse Debt Profiles: The dataset showcases that countries have diverse debt profiles, with some countries having alarmingly high debts in specific sectors. This indicates the varied challenges and priorities each country faces.
+Indicator-Specific Debts: Certain debt indicators are more prevalent across multiple countries, suggesting global challenges in sectors like healthcare, infrastructure, or education.
+Rapid Debt Accumulation: Some countries might be accumulating debt at a faster pace in recent years. Monitoring these trends is crucial to prevent future financial crises.
+Need for Customized Solutions: A one-size-fits-all approach might not work. Customized solutions based on the specific debt profiles of each country are essential.
+Value of Data Analysis: This dataset underscores the value of data-driven insights in international finance. Understanding where, why, and how countries borrow can guide better fiscal management strategies.
+
+
 
 
