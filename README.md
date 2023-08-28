@@ -18,9 +18,9 @@ Disclaimer should be in bold
  -  Average Debt per Country:
 
 **Skills/ Concepts Demonstrated** 
-**Power BI**
+ ***Power BI***
  -Data cleaning using Power Query, Time Intelligence functions, Dynamic and complex KPIs, DAX Queries using different functions, Conditional Formatting, QUICK Measures, Modelling, Filters 
- **SQL Skills**
+ ***SQL Skills***
  -Data Querying, Aggregation Functions, Window Functions, Join OperationsGrouping and Sorting, Data Filtering, Subqueries and Error Handling
 
  **Modelling**
